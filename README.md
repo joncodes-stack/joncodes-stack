@@ -42,9 +42,3 @@ Seja muito bem-vindo ao meu GitHub! 🚀
 </div>
 
 ---
-
-## 📊 Visitas no perfil
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/joncodes-stack/count.svg" />
-</p>
