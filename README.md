@@ -9,7 +9,9 @@ Arquiteto de Software
 <br />
 
 
- <br/> Atuo como desenvolvedor de software desde 2017, iniciando minha carreira com a linguagem Pascal, atualmente conhecida como Delphi. Com o tempo, migrei para o ambiente .NET, especializando-me em C# para criar soluções de backend. Durante essa trajetória, sempre adotei boas práticas de programação e princípios de arquitetura limpa. Atualmente, trabalho na Claro Brasil, onde contribuo para o desenvolvimento de soluções integradas tanto para backend quanto para frontend, com foco principal em C#. Minha experiência atual inclui a criação de soluções para backend, frontend e plataformas móveis.
+ <br/> Sou desenvolvedor de software apaixonado por tecnologia e por criar soluções que facilitam o dia a dia das pessoas.
+Tenho experiência no desenvolvimento de aplicações, atuando tanto em backend quanto em frontend, sempre com foco em qualidade, organização e boas práticas de programação.
+Ao longo da minha jornada, venho evoluindo constantemente, buscando aprimorar minhas habilidades técnicas e ampliar minha visão sobre arquitetura de software e construção de sistemas escaláveis..
 
  <br />
 Seja muito bem vindo ao meu Github!
@@ -17,17 +19,7 @@ Seja muito bem vindo ao meu Github!
   
 ## MY SKILLS
  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" height="30" width="42" alt="angular-logo"  />
-    <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" height="30" width="42" alt="vue-logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" height="30" width="42" alt=".net-logo"  />
-    <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" width="42" alt="node.js-logo"  />
-</div>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript" /> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" height="30" width="42" alt="Angular" /> <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" height="30" width="42" alt="Vue" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="C#" /> <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" height="30" width="42" alt=".NET" /> <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" width="42" alt="Node.js" /> </div>
 
 ###
 
